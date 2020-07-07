@@ -1,0 +1,21 @@
+.carousel-text{
+    color: grey;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-text{
+    color: gray;
+}
+.container{
+    margin-bottom: 100px;
+}
