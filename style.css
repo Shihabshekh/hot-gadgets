@@ -1,6 +1,11 @@
 .carousel-text{
     color: grey;
 }
+.bg{
+    background-image: url("image/bg-1.png");
+    background-repeat: no-repeat;
+    
+}
 .buy-now-button{
     background-color: black;
     color: #fff;
@@ -19,3 +24,32 @@
 .container{
     margin-bottom: 100px;
 }
+#pale-order{
+    width: 600px;
+    height: 500px;
+}
+.bg-red{
+    box-shadow:4px 4px 10px grey;
+    height: 200px;
+}
+.under-line{
+    height: 8px;
+    background-color: orange;
+    width: 100px;
+    margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+}
+.pale-order img{
+    width: 100%;
+}
+.cat{
+    text-align: center;
+}
+.ca{
+    margin-top: 150px;
+    border-radius: 40px;
+}
+.categ{
+    background: white;
